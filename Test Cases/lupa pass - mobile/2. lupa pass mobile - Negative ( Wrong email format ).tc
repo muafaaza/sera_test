@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>2. lupa pass mobile - Negative ( Wrong email format )</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a51bc9df-a5ac-4b7c-bc34-8b32016ce169</testCaseGuid>
+</TestCaseEntity>
